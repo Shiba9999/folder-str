@@ -13,7 +13,6 @@ const Dashboard = () => {
 
   const handleSelect = (eventKey) => {
     navigate(eventKey);
-    console.log("eventKey", eventKey);
   };
 
   return (
